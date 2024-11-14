@@ -24,7 +24,7 @@ const projects = [
     }
 ];
 
-// Function to display skills
+/* Function to display skills*/ 
 function displaySkills() {
     const skillsList = document.getElementById("skills-list");
     skills.forEach(skill => {
