@@ -18,7 +18,7 @@ header {
 }
 
 .niomi {
-    width: 50px; /* larger size */
+    width: 50px; /* large size */
     height: 20px;
     border-radius: 50%;
     object-fit: cover;
